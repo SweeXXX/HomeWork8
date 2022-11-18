@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\bin\Debug\net6.0\HomeWork777.exe
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\bin\Debug\net6.0\HomeWork777.deps.json
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\bin\Debug\net6.0\HomeWork777.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\bin\Debug\net6.0\HomeWork777.dll
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\bin\Debug\net6.0\HomeWork777.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\HomeWork777.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\HomeWork777.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\HomeWork777.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\HomeWork777.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\HomeWork777.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\HomeWork777.dll
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\refint\HomeWork777.dll
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\HomeWork777.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\HomeWork777.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\HomeWork777\HomeWork777\obj\Debug\net6.0\ref\HomeWork777.dll
